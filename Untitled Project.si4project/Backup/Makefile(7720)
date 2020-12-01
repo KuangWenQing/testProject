@@ -1,0 +1,2 @@
+obj-y += framebuffer.o
+obj-y += bmp.o

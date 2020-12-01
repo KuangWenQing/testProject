@@ -1,0 +1,4 @@
+---- CFLAGS Matches (3 in 1 files) ----
+Makefile line 18 : CFLAGS := -Wall -O2 -g -DDEBUG
+Makefile line 20 : CFLAGS += -I $(shell pwd)/include -I/opt/libdecode/lib
+Makefile line 24 : export CFLAGS LDFLAGS
